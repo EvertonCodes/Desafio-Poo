@@ -56,7 +56,7 @@ O programa utiliza conceitos básicos de **Programação Orientada a Objetos (PO
 - **Matheus Cabral - 01647896**
 - **Valter Luiz - 01837580**
 - **Anderson Henrique - 01796833**
-- **Ruan - 01804515**
+- **Ruann- 01804515**
 
 ## 📈 Diagrama
 
